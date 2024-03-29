@@ -1,4 +1,4 @@
-import { MovieInfo } from "../components/MoviePoster/createMoviePreview";
+import { MovieInfo } from "../components/MoviePreview/createMoviePreview";
 import MoviePosterBoard from "../components/MoviePosterBoard/MoviePosterBoard";
 import PrimaryButton from "../components/Button/createPrimaryButton";
 import createElement from "../utils/createElement";
